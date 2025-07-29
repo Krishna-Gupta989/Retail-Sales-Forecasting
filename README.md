@@ -55,6 +55,7 @@ Edit
 ## 🚀 How to Run
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Krishna-Gupta989/retail-sales-forecasting.git
    cd retail-sales-forecasting
@@ -70,14 +71,10 @@ bash
 Copy
 Edit
 jupyter notebook
-📌 Future Improvements
+
+🔮 Future Improvements
 Add deep learning models like LSTM for more accuracy.
 
 Integrate external factors like holidays, weather, etc.
 
 Build an interactive dashboard using Streamlit or Dash.
-
-🙌 Acknowledgments
-Inspired by retail analytics challenges.
-
-Thanks to open-source contributors and dataset providers.
